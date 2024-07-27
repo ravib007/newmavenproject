@@ -159,7 +159,7 @@ body
             <img class="profile-img" src="WhatsAppImage2024-07-13at3.29.07PM.jpeg">
         </div>
         <div class="text-data">
-            <span class="name">E. PRADEEP</span>
+            <span class="name">POOVENTHAN  M</span>
             <span class="job">Software Analyst</span>
         </div>
         <div class="media-link">
