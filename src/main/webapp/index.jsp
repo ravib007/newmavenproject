@@ -159,8 +159,8 @@ body
             <img class="profile-img" src="WhatsAppImage2024-07-13at3.29.07PM.jpeg">
         </div>
         <div class="text-data">
-            <span class="name">B.RAVI KUMAR</span>
-            <span class="job">Software Engineer</span>
+            <span class="name">E. PRADEEP</span>
+            <span class="job">Software Analyst</span>
         </div>
         <div class="media-link">
             <a href="#" style="background-color: #4267b2;" class="link">
